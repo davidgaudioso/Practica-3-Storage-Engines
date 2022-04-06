@@ -21,6 +21,7 @@ Igual que en l’apartat anterior primer crearem el tablespace i el posarem en a
 I entrarem a la base de dades sakila i posarem les taules que ens diu l’apartat el tablespace ts2:
  
 ![image](https://user-images.githubusercontent.com/99834779/161995647-e9a65891-11bd-435d-a02a-3e80dd39e398.png)
+
 ![image](https://user-images.githubusercontent.com/99834779/161995664-fabb5177-7b8b-4f3c-b53f-726610e3b933.png)
  
 Per veure que els dos tablespace estan a la ruta indicada he fet aquesta consulta:
