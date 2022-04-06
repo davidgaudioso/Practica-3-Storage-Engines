@@ -25,7 +25,7 @@
  
 ![image](https://user-images.githubusercontent.com/99834779/161996275-a315d0f6-b06f-45af-9291-15e0be55113e.png)
 
-### Després aniré a l’ ubicació /var/lib/mysql i esborrarem els fitxers ib_logfiles, també podem veure quina mida tenen els arxius:
+### Després aniré a l’ ubicació /var/lib/mysql i esborrarem els fitxers ib_logfiles, també podem veure quina mida tenen els fitxers:
 
 ![image](https://user-images.githubusercontent.com/99834779/161996304-3563b5b8-d19d-4363-9a8b-7464b4ca9067.png)
 
@@ -34,7 +34,7 @@
 ![image](https://user-images.githubusercontent.com/99834779/161996325-aacb01d7-41ec-4dcd-9740-7452f36b4018.png)
 
 ### Ara anem al fitxer de configuració que té el nom de my.cnf i posem les línies subratllades en vermell:
-### innodb_log_file_size=64M, aquesta línia es la mida del nou del arxius.
+### innodb_log_file_size=64M, aquesta línia es la mida que tindrà els fitxers
 ### innodb_log_files_in_group=8, aquesta línia es per determinar quants fitxers vull crear.
  
 ![image](https://user-images.githubusercontent.com/99834779/161996374-02da0680-62cc-4ac6-a74f-a0648ffbf6a0.png)
