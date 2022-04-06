@@ -33,7 +33,7 @@
 
 ![image](https://user-images.githubusercontent.com/99834779/161995779-7e59bc7e-c47e-47c3-b898-78526d7833f2.png)
 
-### Ara mirem si estan les dades i en el meu cas he utilitzat el programa Workbenck:
+### Ara mirem si estan les dades i en el meu cas he utilitzat el programa Workbench:
 
 ![image](https://user-images.githubusercontent.com/99834779/161995794-a762200a-6717-405b-bcbd-1ed9433492cf.png)
 
@@ -41,7 +41,7 @@
 
 ![image](https://user-images.githubusercontent.com/99834779/161995816-e6ced93b-b0b7-45cc-89fa-cf46630d412b.png)
 
-### Ara mirem les dades i he utilitzat el Workbenck:
+### Ara mirem les dades i he utilitzat el programa Workbench:
  
 ![image](https://user-images.githubusercontent.com/99834779/161995844-1973504c-4cb0-4320-bc08-81474a917238.png)
 
