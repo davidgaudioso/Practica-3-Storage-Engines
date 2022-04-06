@@ -47,8 +47,8 @@
 
 ### •	Quines comandes i configuracions has realitzat per fer els dos apartats anteriors?
 ### He utilitzat aquestes comandes:
-### CREATE TABLESPACE  per crear els tablespaces.
-### ALTER TABLE  per canviar a la taula el seu tablespaces.
+### CREATE TABLESPACE -> per crear els tablespaces.
+### ALTER TABLE -> per canviar a la taula el seu tablespaces.
 ### També he modificat el fitxer de configuració amb el nom my.cnf i ha quedat d’aquesta manera, després de posar aquesta configuració fet les comandes de canviar  de directori, aturar i iniciar el servei mysql:
  
 ![image](https://user-images.githubusercontent.com/99834779/161995886-1c347ba1-c286-4d70-97aa-b3ad9c838c73.png)
