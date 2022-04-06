@@ -34,7 +34,7 @@
 ![image](https://user-images.githubusercontent.com/99834779/161996325-aacb01d7-41ec-4dcd-9740-7452f36b4018.png)
 
 ### Ara anem al fitxer de configuració que té el nom de my.cnf i posem les línies subratllades en vermell:
-### innodb_log_file_size=64M, aquesta línia es la mida que tindrà els fitxers
+### innodb_log_file_size=64M, aquesta línia es la mida que tindrà els fitxers.
 ### innodb_log_files_in_group=8, aquesta línia es per determinar quants fitxers vull crear.
  
 ![image](https://user-images.githubusercontent.com/99834779/161996374-02da0680-62cc-4ac6-a74f-a0648ffbf6a0.png)
